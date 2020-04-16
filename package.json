@@ -1,0 +1,12 @@
+{
+  "name": "test-stack",
+	"private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:AnatoleLucet/test-stack.git",
+  "author": "AnatoleLucet <lucet.anatole@gmail.com>",
+  "license": "MIT"
+}
